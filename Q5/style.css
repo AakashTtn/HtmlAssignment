@@ -1,0 +1,14 @@
+table{
+    width: 50%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: greenyellow;
+}
+tr {
+    background-color: cyan;
+}
