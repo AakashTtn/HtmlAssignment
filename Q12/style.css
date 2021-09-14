@@ -16,11 +16,11 @@ body{
     background-color: #212529;
     padding: 1px 0px;
 }
-ul{
+.sec1 nav ul{
     display: flex;
     list-style: none;
 }
-li{
+.sec1 nav ul li{
     margin-right: 20px;
 }
 
@@ -65,4 +65,22 @@ figure h1{
     margin: 0px;
     height: 85%;
     background-color: rgb(43, 42, 42);
+}
+
+
+
+.footer{
+    width: 80%;
+    margin: 0px auto;
+    padding: 10px;
+    background-color: #343a40;
+    color: whitesmoke;
+}
+.footer ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.footer ul li{
+    margin-right: 20px;
 }
